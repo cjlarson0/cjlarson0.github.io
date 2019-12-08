@@ -1,6 +1,6 @@
 +++
 title = "About"
-date = "2019-11-07"
+date = "2019-12-08"
 aliases = ["about-us","about-connor","contact"]
 [ author ]
   name = "Connor Larson"
@@ -13,3 +13,5 @@ My Name is Connor Larson and I am a data enthusiast trying to work my way up in 
 I am a proud Michigan Wolverine and college football, basketball, and hockey fan. Detroit sports fan. Snowboarder. Fisherman. Outdoorsman.
 
 View my github profile: [GitHub](https://github.com/cjlarson0).
+
+Link to my resume: [Resume](https://github.com/cjlarson0/resume/blob/master/resume/resume.pdf)
